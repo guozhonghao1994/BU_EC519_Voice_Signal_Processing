@@ -4,7 +4,13 @@ Speech (naturally spoken) is the main mode of communication between humans. Spee
 
 ### Project1
 - Start, Endpoint, V-UNV Detection 
--- Based
+Based on log energy and zero crossing rate
+
+- Effect of background noise
+Freeze parameters from previous section
+
+Additive white Gaussian noise, with 20,10 and 0 dB SNR
+
 ### Project2
 
 ### Project3
